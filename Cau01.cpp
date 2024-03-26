@@ -17,6 +17,7 @@ void dumpFloat(float *p) {
     std::cout << '\n';
 }
 
+
 int main() {
     float x;
     std::cout << "Enter a floating-point number: ";
